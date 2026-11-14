@@ -1,8 +1,8 @@
 {
- "key": "dbf66ce2",
+ "key": "424365a7",
  "stars": 7,
- "contributions": 836,
- "repos": 32,
+ "contributions": 844,
+ "repos": 33,
  "followers": 3,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "TypeScript",
-   3270303
+   3286876
   ],
   [
    "HTML",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 18,
     "day": 14,
     "today": true
    }
@@ -178,7 +178,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1100,
+   "stars": 1102,
    "language": "Python",
    "topics": []
   }
@@ -263,6 +263,15 @@
     "sveltekit",
     "tauri"
    ]
+  },
+  {
+   "name": "Dorion",
+   "url": "https://github.com/Maallly/Dorion",
+   "text": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
   },
   {
    "name": "shelter-plugins",
