@@ -1,7 +1,7 @@
 {
- "key": "459ad77c",
+ "key": "945d5483",
  "stars": 7,
- "contributions": 851,
+ "contributions": 858,
  "repos": 33,
  "followers": 3,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "TypeScript",
-   3294739
+   3305561
   ],
   [
    "HTML",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 7,
+    "c": 14,
     "day": 15,
     "today": true
    },
@@ -255,7 +255,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "HTML",
+   "language": "TypeScript",
    "topics": [
     "discord",
     "equicord",
