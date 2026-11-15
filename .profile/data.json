@@ -1,6 +1,6 @@
 {
- "key": "945d5483",
- "stars": 7,
+ "key": "bdfff940",
+ "stars": 8,
  "contributions": 858,
  "repos": 33,
  "followers": 3,
@@ -154,12 +154,27 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1101,
+   "stars": 1102,
    "language": "Python",
    "topics": []
   }
  ],
  "all": [
+  {
+   "name": "shelter-plugins",
+   "url": "https://github.com/Maallly/shelter-plugins",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "discord",
+    "equicord",
+    "shelter-plugin",
+    "shelter-plugins",
+    "vencord"
+   ]
+  },
   {
    "name": "brsh",
    "url": "https://github.com/Maallly/brsh",
@@ -248,21 +263,6 @@
    "stars": 0,
    "language": "Rust",
    "topics": []
-  },
-  {
-   "name": "shelter-plugins",
-   "url": "https://github.com/Maallly/shelter-plugins",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": [
-    "discord",
-    "equicord",
-    "shelter-plugin",
-    "shelter-plugins",
-    "vencord"
-   ]
   },
   {
    "name": "create-templates",
