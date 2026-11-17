@@ -1,8 +1,8 @@
 {
- "key": "410af816",
- "stars": 8,
- "contributions": 860,
- "repos": 33,
+ "key": "2bdbfe6b",
+ "stars": 7,
+ "contributions": 841,
+ "repos": 32,
  "followers": 3,
  "languages": [
   [
@@ -162,7 +162,7 @@
    "url": "https://github.com/User0332/rewards-farmer",
    "text": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
    "fork": false,
-   "stars": 1103,
+   "stars": 1102,
    "language": "Python",
    "topics": []
   }
@@ -230,22 +230,6 @@
     "roblox",
     "svelte",
     "tauri"
-   ]
-  },
-  {
-   "name": "RotectorLuaClient",
-   "url": "https://github.com/Maallly/RotectorLuaClient",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Luau",
-   "topics": [
-    "lua",
-    "luau",
-    "moderation",
-    "roblox-api",
-    "rotector",
-    "rotector-api"
    ]
   },
   {
