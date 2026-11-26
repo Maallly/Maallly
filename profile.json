@@ -18,15 +18,14 @@
     "buttons"
   ],
   "hidden": [
-    "about",
     "projects",
-    "stack",
+    "stats",
     "buttons"
   ],
   "hero": {
     "greeting": "",
     "name": "Mally",
-    "subtitle": "hi",
+    "subtitle": "say hi",
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [
@@ -35,62 +34,94 @@
         "label": "VIE"
       },
       {
-        "icon": "accessible_forward",
-        "label": "I hate this wheel chair"
+        "icon": "brand:anthropic",
+        "label": "i dont work at this company"
       },
       {
-        "icon": "360",
-        "label": "Turns around"
-      },
-      {
-        "icon": "deployed_code",
-        "label": "This is a box"
+        "icon": "rocket_launch",
+        "label": "rocket science"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "about",
     "items": [
       {
-        "icon": "favorite",
-        "label": ""
+        "icon": "brand:claudecode",
+        "label": "claude code"
+      },
+      {
+        "icon": "brand:claudecode",
+        "label": "claude code"
+      },
+      {
+        "icon": "brand:claudecode",
+        "label": "claude code"
+      },
+      {
+        "icon": "brand:claude",
+        "label": "who is this"
+      },
+      {
+        "icon": "brand:anthropic",
+        "label": "is this a company"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "larp stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "coding",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:claudecode",
+            "label": "english"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:claudecode",
+            "label": "claude code"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:claudecode",
+            "label": "claude code"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "claude code"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "claude code"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "claude code"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "claude code"
           }
         ]
       },
       {
-        "title": "Tools",
+        "title": "agent harnesses",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
+            "icon": "brand:opencode",
+            "label": "open code"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "brand:claudecode",
+            "label": "claude code"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:cursor",
+            "label": "cursor"
+          },
+          {
+            "icon": "brand:replit",
+            "label": "replit ai"
           }
         ]
       }
@@ -125,17 +156,26 @@
       {
         "icon": "brand:discord",
         "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:github",
-        "url": "https://github.com/TheMallyGuy"
       }
     ],
-    "variant": "icon",
+    "variant": "chip",
     "fill": "brand",
     "card": true
   },
   "buttons": {
-    "items": []
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
   }
 }
