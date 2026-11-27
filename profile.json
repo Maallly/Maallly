@@ -59,6 +59,14 @@
         "label": "claude code"
       },
       {
+        "icon": "brand:claudecode",
+        "label": "claude code"
+      },
+      {
+        "icon": "brand:claudecode",
+        "label": "this must be claude code"
+      },
+      {
         "icon": "brand:claude",
         "label": "who is this"
       },
